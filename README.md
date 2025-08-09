@@ -22,10 +22,14 @@ This repo documents my progress in the course *Fundamentos de Álgebra Lineal co
 ## Technology
 
 - **Python 3.13.2**
-- [Numpy](https://numpy.org/)
-- [Matplotlib](https://matplotlib.org/)
-- [Bokeh](https://bokeh.org/)
 - [Jupyter Notebooks](https://jupyter.org/)
+- [SciPy](https://scipy.org/)
+- [Pillow](https://pypi.org/project/pillow/)
+- [Imageio](https://imsgeio.org/project/imageio/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Scikit-learn](https://scikit-learn.org/stable/)
+
 
 ---
 
