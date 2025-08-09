@@ -30,7 +30,7 @@ This repo documents my progress in the course *Fundamentos de Álgebra Lineal co
 ---
 
 ## 📂 Repo structure
-
-``` linear-algebra-python/
+```
+linear-algebra-python/
  |
  |-- ```
